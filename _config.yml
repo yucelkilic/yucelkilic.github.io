@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Just another astronomer's site
+title: Dr. Yücel Kılıç
 first_name: Yücel
 middle_name: 
 last_name: Kılıç
@@ -125,7 +125,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: YK's blog # blog_name will be displayed in your blog page
-blog_description: Just another astronomer's site
+blog_description: Just another astronomer's blog
 permalink: /blog/:year/:title/
 
 # Pagination
