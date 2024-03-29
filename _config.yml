@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # Just another astronomer's site
+title: Just another astronomer's site
 first_name: Yücel
 middle_name: 
 last_name: Kılıç
@@ -288,8 +288,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Kilic]
+  first_name: [Y.]
 
   style: apa
   locale: en
@@ -478,4 +478,4 @@ jsonresume:
   - skills
   - languages
   - interests
-  - references
+  # - references
