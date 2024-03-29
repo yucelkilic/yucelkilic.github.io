@@ -16,7 +16,7 @@ nav_order: 8
 
 ## Organization of meetings and conferences
 
-| **When** | ** SOC** | ** LOC** | **Participant** | **Title** | **Place** |
+| **When** | **SOC**  | **LOC**  | **Participant** | **Title** | **Place** |
 |----------|----------|----------|-----------------|-----------|-----------|
 |          |          |          |                 |           |           |
 
