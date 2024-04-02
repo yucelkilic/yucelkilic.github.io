@@ -35,6 +35,18 @@ nav_order: 8
                     <hr>
                     <div class="media">
                         <div class="media-left">
+                            <a href="https://asteroitkasifi.com/">
+                            <img class="media-object" width="64px" src="/assets/img/asteroit_kasifi_logo.png" alt="Asteroit Kaşifi">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> "Asteroit Kâşifi" Executor</h5>
+                            Asteroit Kaşifi (Asteroid Explorer) is an independent organization that was founded in 2017. It aims to provide high-quality real astronomy images to students and astronomy enthusiasts, allowing them to make discoveries on these images. Asteroit Kaşifi is organizing and running campaigns for the International Astronomical Search Collaboration (IASC) in Türkiye. IASC is a partnership of over 20 international organizations and institutes supported by NASA.
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
                             <a href="https://www.tad.org.tr">
                             <img class="media-object" width="64px" src="/assets/img/TAD_logo.png" alt="Turkish Astronomical Society">
                             </a>
