@@ -95,7 +95,72 @@ nav_order: 8
     </div>
 </div>
 
-## Awards
+<h3>Association memberships</h3>
+
+<div class="container-fluid"> 
+    <div class="row">
+        <div class="col-xs-12 col-md-12">
+            <div class="panel panel-success">
+                <div class="panel-body">
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://www.lkd.org.tr">
+                            <img class="media-object" width="64px" src="/assets/img/LKD_logo.webp" alt="Turkish Linux Users Association">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> Turkish Linux Users Association (2009)</h5>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="http://www.antbisder.org.tr/">
+                            <img class="media-object" width="64px" src="/assets/img/antbisder_logo.png" alt="Antalya Bicycle Association">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> Antalya Bicycle Association (2015)</h5>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://www.tad.org.tr">
+                            <img class="media-object" width="64px" src="/assets/img/TAD_logo.png" alt="Turkish Astronomical Society">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> Turkish Astronomical Society (2020)</h5>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://shao.az/">
+                            <img class="media-object" width="64px" src="/assets/img/shao_logo.jpg" alt="Akdeniz University">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> Shamakhi Astrophysical Observatory  Dissertation Council Member  </h5>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://www.pardus.org.tr/">
+                            <img class="media-object" width="64px" src="/assets/img/Pardus.png" alt="Akdeniz University">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> Pardus Operating System Volunteer  </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 ## Past responsabilities
 
