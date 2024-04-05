@@ -65,6 +65,7 @@ nav_order: 8
                         </div>
                         <div class="media-body">
                             <h5> Akdeniz University, Department of Space Sciences and Technologies Advisory Board </h5>
+                            Since the year 2023.
                         </div>
                     </div>
                     <hr>
@@ -76,6 +77,7 @@ nav_order: 8
                         </div>
                         <div class="media-body">
                             <h5> Shamakhi Astrophysical Observatory  Dissertation Council Member  </h5>
+                            Since the year 2023.
                         </div>
                     </div>
                     <hr>
@@ -87,6 +89,19 @@ nav_order: 8
                         </div>
                         <div class="media-body">
                             <h5> Pardus Operating System Volunteer  </h5>
+                            I have been volunteering as a developer for Pardus, Turkey's national operating system, since 2008.
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://en.wikipedia.org/wiki/Peer_review">
+                            <img class="media-object" width="64px" src="/assets/img/peer-reviewed.png">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> Referee for peer-reviewed journals  </h5>
+                            I am occasionally refereeing articles for scientific journals, including the <a href="https://iopscience.iop.org/journal/2632-3338">Planetary Science Journal</a>.
                         </div>
                     </div>
                 </div>
@@ -94,7 +109,7 @@ nav_order: 8
         </div>
     </div>
 </div>
-
+<br><br>
 <h3>Association memberships</h3>
 
 <div class="container-fluid"> 
@@ -137,23 +152,23 @@ nav_order: 8
                     <hr>
                     <div class="media">
                         <div class="media-left">
-                            <a href="https://shao.az/">
-                            <img class="media-object" width="64px" src="/assets/img/shao_logo.jpg" alt="Akdeniz University">
+                            <a href="https://www.iota-es.de">
+                            <img class="media-object" width="64px" src="/assets/img/iota-es_logo.png" alt="International Occultation Timing Association / European Section">
                             </a>
                         </div>
                         <div class="media-body">
-                            <h5> Shamakhi Astrophysical Observatory  Dissertation Council Member  </h5>
+                            <h5>International Occultation Timing Association / European Section (2023)</h5>
                         </div>
                     </div>
                     <hr>
                     <div class="media">
                         <div class="media-left">
-                            <a href="https://www.pardus.org.tr/">
-                            <img class="media-object" width="64px" src="/assets/img/Pardus.png" alt="Akdeniz University">
+                            <a href="https://eas.unige.ch">
+                            <img class="media-object" width="64px" src="/assets/img/eas_logo.png" alt="European Astronomical Society">
                             </a>
                         </div>
                         <div class="media-body">
-                            <h5> Pardus Operating System Volunteer  </h5>
+                            <h5> European Astronomical Society (2023)</h5>
                         </div>
                     </div>
                 </div>
