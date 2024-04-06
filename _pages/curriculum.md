@@ -177,6 +177,9 @@ nav_order: 8
     </div>
 </div>
 
+<h3>Awards</h3>
+<h3>Past responsabilities</h3>
+
 ## Past responsabilities
 
 ## Organization of meetings and conferences
