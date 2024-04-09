@@ -248,7 +248,7 @@ nav_order: 8
                     <div class="media">
                         <div class="media-left">
                             <a href="https://bid.ankara.edu.tr/en/mainpage/">
-                            <img class="media-object" width="64px" src="/assets/img/Ankara University_Logo.png" alt="Ankara University Information Technologies Deparment">
+                            <img class="media-object" width="64px" src="/assets/img/Ankara_University_Logo.png" alt="Ankara University Information Technologies Deparment">
                             </a>
                         </div>
                         <div class="media-body">
