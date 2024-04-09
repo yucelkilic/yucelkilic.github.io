@@ -176,9 +176,91 @@ nav_order: 8
         </div>
     </div>
 </div>
-
+<br><br>
 <h3>Awards</h3>
-<h3>Past responsabilities</h3>
+<br><br>
+<h3>Successive positions</h3>
+
+<div class="container-fluid"> 
+    <div class="row">
+        <div class="col-xs-12 col-md-12">
+            <div class="panel panel-success">
+                <div class="panel-body">
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://www.tug.tubitak.gov.tr">
+                            <img class="media-object" width="64px" src="/assets/img/tug_logo.png" alt="TÜBİTAK National Observatory">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> TÜBİTAK National Observatory (2017 - )</h5>
+                            Senior Expert, Astronomer, Technical Group Leader of Telescopes
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://lesia.obspm.fr">
+                            <img class="media-object" width="64px" src="/assets/img/lesia_logo.png" alt="Laboratory of Space Studies and Instrumentation in Astrophysics">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> Visiting Scholar (2021/11 - 2021/12)</h5>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://www.sinav.com.tr/KurumAra/antalya/0/0/12">
+                            <img class="media-object" width="64px" src="/assets/img/sinavkoleji_logo.png" alt="Antalya Sınav College">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> Antalya Sınav College (2014 - 2017)</h5>
+                            Astronomy and Space Sciences Teacher, Robotics and Coding Teacher
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://atasam.atauni.edu.tr/">
+                            <img class="media-object" width="64px" src="/assets/img/atasam_logo.jpg" alt="Atatürk University Astrophysics Research and Application Center">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h6>Atatürk University Astrophysics Research and Application Center (2012 - 2014)</h6>
+                            Software Developer, Astronomer
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="http://rasathane.ankara.edu.tr">
+                            <img class="media-object" width="64px" src="/assets/img/aukr_logo.png" alt="Ankara University Kreiken Observatory">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5>Ankara University Kreiken Observatory (2010 - 2012)</h5>
+                            Night Assistant
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://bid.ankara.edu.tr/en/mainpage/">
+                            <img class="media-object" width="64px" src="/assets/img/Ankara University_Logo.png" alt="Ankara University Information Technologies Deparment">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5>Ankara University Information Technologies Deparment (2009 - 2010)</h5>
+                            System and Network Intern
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 ## Past responsabilities
 
