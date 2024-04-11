@@ -72,12 +72,25 @@ nav_order: 8
                     <div class="media">
                         <div class="media-left">
                             <a href="https://shao.az/">
-                            <img class="media-object" width="64px" src="/assets/img/shao_logo.jpg" alt="Akdeniz University">
+                            <img class="media-object" width="64px" src="/assets/img/shao_logo.jpg" alt="International Olympiad on Astronomy and Astrophysics">
                             </a>
                         </div>
                         <div class="media-body">
                             <h5> Shamakhi Astrophysical Observatory  Dissertation Council Member  </h5>
                             Since the year 2023.
+                        </div>
+                    </div>
+                    <hr>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="https://olimpiyat.astronomi.org">
+                            <img class="media-object" width="64px" src="/assets/img/ioaa_logo.jpeg" alt="Akdeniz University">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5> National Astronomy and Astrophysics Olympiad Instructor</h5>
+                            Since the year 2024.
                         </div>
                     </div>
                     <hr>
